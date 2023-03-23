@@ -7,7 +7,7 @@ from streamlit.commands.page_config import Layout
 import plotly.graph_objects as go  
 import yfinance as yf
 import datetime
-from streamlit_extras import badges 
+
 
 #----------------------------#
 # Upgrade streamlit library
@@ -191,6 +191,6 @@ st.title('')
 
 
 
-badge(type="github", name="jodiambra")
+
 st.write('Portfolio', 'https://jodiambra.github.io/')
 st.write('LinkedIn', 'https://www.linkedin.com/in/jodiambra/')
