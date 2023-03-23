@@ -1,0 +1,7 @@
+streamlit
+pillow
+datetime
+pandas
+plotly_express
+plotly.graph_objects
+yfinance
