@@ -3,5 +3,5 @@ pillow
 datetime
 pandas
 plotly_express
-plotly.graph_objects
+plotly
 yfinance
