@@ -7,7 +7,7 @@ from streamlit.commands.page_config import Layout
 import plotly.graph_objects as go  
 import yfinance as yf
 import datetime
-from streamlit_extras.badges import badge
+from streamlit_extras import badges 
 
 #----------------------------#
 # Upgrade streamlit library
