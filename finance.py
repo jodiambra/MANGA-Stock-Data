@@ -121,7 +121,7 @@ st.title('')
 # volume 
 volume = st.button('Picked one ticker')
 if volume or len(ticker_symbols)==1:
-    st.subheader('Volume')
+    st.subheader('')
     st.subheader('Volume')
     st.write(px.line(ticker, y=ticker.Volume, x=ticker.index, log_y=True, height=800, width=1200))
 else:
