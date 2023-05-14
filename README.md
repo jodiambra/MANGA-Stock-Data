@@ -5,4 +5,4 @@
 This is a stock and crypto currency market data dashboard, with current data collected from yahoo finance. 
 
 
-# Website can be accessed at: [Website](https://manga-stock-data.onrender.com/)
+# Website can be accessed at: [MANGA](https://manga-stock-data.onrender.com/)
